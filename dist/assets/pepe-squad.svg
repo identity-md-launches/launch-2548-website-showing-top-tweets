@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="360" viewBox="0 0 680 360" fill="none">
+<defs>
+ <linearGradient id="armor" x1="272" y1="183" x2="368" y2="363" gradientUnits="userSpaceOnUse"><stop stop-color="#344a3b"/><stop offset="1" stop-color="#13291e"/></linearGradient>
+ <linearGradient id="skin" x1="306" y1="58" x2="365" y2="224" gradientUnits="userSpaceOnUse"><stop stop-color="#87ae62"/><stop offset="1" stop-color="#537b43"/></linearGradient>
+ <linearGradient id="visor" x1="314" y1="91" x2="410" y2="139" gradientUnits="userSpaceOnUse"><stop stop-color="#e1ffb8"/><stop offset="1" stop-color="#69af73"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#7dba82" stroke-opacity=".12"/></pattern>
+</defs>
+<ellipse cx="371" cy="329" rx="250" ry="19" fill="#06170f" opacity=".6"/>
+<circle cx="377" cy="172" r="143" fill="url(#grid)" stroke="#52775a" stroke-opacity=".3"/>
+<circle cx="377" cy="172" r="114" stroke="#6c9f65" stroke-opacity=".22" stroke-dasharray="4 9"/>
+<path d="M117 101h56l24 24h37M516 85h50l20 20v42M135 241h39l28-28m348-14h40l15 15" stroke="#4c7952" stroke-width="1.5"/>
+<g fill="#b9ed7c"><circle cx="117" cy="101" r="3"/><circle cx="135" cy="241" r="3"/><circle cx="566" cy="85" r="3"/><circle cx="605" cy="214" r="3"/></g>
+<!-- The scout: a smaller Pepe in a neural headset. -->
+<g stroke="#11271b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+ <path d="m484 177-20 39-11 101h145l-15-90-33-48Z" fill="#2d4934"/>
+ <path d="m491 197-8 116m69-114 23 114" stroke="#5e7d4e" stroke-width="10"/>
+ <path d="M470 114c-2-24 13-36 27-31 8-18 28-18 36-2 25-9 44 6 42 31l7 32c3 28-22 55-58 54-37-1-59-23-58-47Z" fill="#5d8951"/>
+ <path d="M477 114c-2-18 20-29 31-10 12-21 37-14 41 4l-2 20-69 2Z" fill="#d6dec1"/>
+ <path d="m477 114 30-1m4-4 38 6" stroke-width="6"/>
+ <ellipse cx="495" cy="121" rx="3" ry="6" fill="#13291e"/><ellipse cx="530" cy="121" rx="3" ry="6" fill="#13291e"/>
+ <path d="M477 154c19 10 52 14 77-1-6 26-63 32-77 1Z" fill="#be9468"/>
+ <path d="M478 155c25 13 50 12 76-2" stroke-width="3"/>
+ <path d="M467 138v-23c-2-34 17-52 50-52 36 0 58 24 58 52v22" stroke="#829176" stroke-width="8"/>
+ <rect x="463" y="119" width="13" height="33" rx="6" fill="#9fb58b"/><rect x="562" y="120" width="18" height="35" rx="7" fill="#405e43"/>
+ <path d="m566 144-14 19h-19" stroke="#9daf8b" stroke-width="4"/><circle cx="530" cy="163" r="4" fill="#b9ed7c"/>
+ <path d="M496 233h49v56h-49z" fill="#193421"/><path d="m506 262 11 11 18-25" stroke="#b9ed7c" stroke-width="3"/>
+ <path d="m579 226 23 44-7 39-21-7-4-35" fill="#43683e"/>
+ <path d="m468 223-24 29-2 43 24 5 14-41" fill="#43683e"/>
+ <path d="m557 84 11-21m-71 2-7-17" stroke="#8eb889" stroke-width="3"/>
+ <circle cx="569" cy="60" r="5" fill="#b9ed7c"/><circle cx="488" cy="44" r="4" fill="#b9ed7c"/>
+</g>
+<!-- The operator: armored Pepe carrying a computation module. -->
+<g stroke="#10281b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+ <path d="m279 188-50 32-28 109h255l-31-112-55-29" fill="url(#armor)"/>
+ <path d="m267 204-28 34 6 91h155l2-97-32-32" fill="#233c2c"/>
+ <path d="m277 201-7 120m91-121 11 121" stroke="#66815a" stroke-width="19"/>
+ <path d="m277 201-7 120m91-121 11 121" stroke="#263b2a" stroke-width="9"/>
+ <path d="M250 100c-2-35 20-58 45-47 19-24 47-19 60 1 34-14 66 10 62 48l9 35c6 40-27 74-86 77-55 3-91-23-94-60Z" fill="url(#skin)"/>
+ <path d="M254 101c0-23 27-43 52-13 20-27 51-26 68-6 7 9 11 19 9 31l-127 9Z" fill="#dfdfbf"/>
+ <ellipse cx="285" cy="109" rx="8" ry="10" fill="#13291e"/>
+ <path d="m254 97 52-4" stroke-width="7"/>
+ <path d="M306 86c19-14 63-18 91-3l-2 37c-23 12-54 13-83 3Z" fill="url(#visor)"/>
+ <path d="m321 88-2 30m13-35-3 37m54-33-4 26" stroke="#eeffd1" stroke-width="2"/>
+ <path d="m337 102 9 9 20-21" stroke="#255d3d" stroke-width="3"/>
+ <path d="m395 90 17 4v23l-17-5" fill="#2a4734"/>
+ <path d="M261 157c32 15 85 16 129-7-9 39-101 54-129 7Z" fill="#c89c77"/>
+ <path d="M261 157c35 19 85 15 129-7" stroke-width="4"/>
+ <path d="M270 176c26 10 63 8 84 0" stroke="#987354" stroke-width="2"/>
+ <path d="M246 129v-25c-4-42 15-65 48-66 13-10 45-10 61-1 30 1 55 22 60 47" stroke="#273d2d" stroke-width="12"/>
+ <path d="M247 126v-23c-3-36 15-57 47-58" stroke="#87a378" stroke-width="3"/>
+ <rect x="235" y="110" width="22" height="45" rx="9" fill="#334b35"/>
+ <path d="m242 149 12 23h24" stroke="#91a981" stroke-width="4"/><rect x="275" y="166" width="12" height="8" rx="3" fill="#b9ed7c"/>
+ <path d="m227 221-24 24-20 64 31 15 30-53-1-39" fill="#4b6850"/>
+ <path d="m413 221 27 18 32 70-31 14-32-51-12-35" fill="#4b6850"/>
+ <path d="m208 263 19 8m207-7 19-9" stroke="#9aaf82" stroke-width="3"/>
+ <path d="M282 235h67v37h-67z" fill="#132a1e"/>
+ <path d="M295 250h9m10 0h23m-42 10h29" stroke="#a1d376" stroke-width="2"/>
+ <path d="m228 314 28-18 19 14-2 19h-48Z" fill="#759b58"/>
+ <path d="m438 309-25-14-18 16 2 18h46Z" fill="#759b58"/>
+</g>
+<!-- AI field module: a chip with branching neural connections. -->
+<g stroke-linejoin="round">
+ <path d="m254 271 132-12 27 72H240Z" fill="#112b1e" stroke="#628553" stroke-width="3"/>
+ <path d="m266 279 109-10 18 51H256Z" fill="#1d3e29" stroke="#385f3c" stroke-width="1.5"/>
+ <g stroke="#acd57b" stroke-width="2"><path d="M311 289h25v22h-25z" fill="#b9ed7c"/><path d="m307 293-17 1-7-7m24 18-22 2-7 7m61-22 17-2 5-9m-22 23 20-1 9 9m-52-27v-9m10 8v-9m-6 39v5"/></g>
+ <path d="m317 300 5-5 7 4-2 6h-7Z" stroke="#214f32" stroke-width="2"/>
+ <g fill="#b9ed7c"><circle cx="283" cy="287" r="3"/><circle cx="278" cy="314" r="3"/><circle cx="361" cy="281" r="3"/><circle cx="368" cy="312" r="3"/></g>
+</g>
+<!-- Floating AI drone. -->
+<g stroke="#31563b" stroke-width="2.5" stroke-linejoin="round"><path d="m159 126 31 18v35l-31-17Z" fill="#547d4f"/><path d="m190 144 27-16v35l-27 16Z" fill="#2b5037"/><path d="m159 126 28-16 30 18-27 16Z" fill="#92be6b"/><path d="m177 152 5 3m14-4 5-3" stroke="#dcffab" stroke-width="4"/><path d="m169 102 17-9 20 11" stroke="#88b36a"/><path d="m153 174 32 18 38-22" stroke="#6b9457"/></g>
+<path d="m461 42 4 9 10 1-8 6 2 10-8-5-8 5 2-10-8-6 10-1 4-9Z" fill="#b9ed7c"/>
+</svg>
